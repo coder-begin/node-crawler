@@ -1,0 +1,13 @@
+{
+  "files": [
+    "src/index.ts",
+    "src/lib/Engine.ts",
+    "src/lib/Downloader.ts",
+    "src/lib/Scheduler.ts",
+    "src/lib/Spider.ts",
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es5"
+  }
+}
